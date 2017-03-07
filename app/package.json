@@ -1,0 +1,14 @@
+{
+  "name": "rotRL",
+  "version": "1.0.0",
+  "main": "game.js",
+  "author": "Tom Ploskina Jr.",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "latest",
+    "rot-js": "latest"
+  },
+  "devDependencies": {
+    "webpack": "latest"
+  }
+}
